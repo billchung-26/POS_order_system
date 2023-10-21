@@ -6,4 +6,5 @@ A simple web application practice for adding the items into shopping cart
 - adding items to shopping cart
 - summing the subtotal
 - calculating the total
+- popping out the total amount of the shopping cart
 
